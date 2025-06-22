@@ -13,18 +13,6 @@ import pandas as pd
 import datetime as dt
 ```
 
-Reddit App: B8mCV8vzOzXBcl-f48hyAA
-GymSentiment, personal use script 
-Client ID: B8mCV8vzOzXBcl-f48hyAA
-
-User Name: Low_Box2086
-secret:	jCxsOShhXuP650c_DU5Q0anYtxU7lg
-name: GymSentiment
-Password: Your Reddit password
-description: Evaluating sentiment of good gyms within areas. Also sentiment of home gym versus paid subscription at local gym.
-
-Type: script
-Redirect URL: http://localhost:8080
 
 ### **Pull Reddit Data around Dallas**
 
